@@ -1,4 +1,5 @@
 # NomnaSans-Z1
+## Tiếng Việt
 Đây là font Hán-Nôm được làm do phát sinh nhu cầu của cá nhân tôi cũng như mong muốn hướng tới phục vụ các nhà nghiên cứu, font có thể hiển thị lên đến 60.340 ký tự và sẽ được tập trung bổ sung thêm các chữ Hán-Nôm. Font chữ này được kết hợp bởi một phần font [*MiSans-L3*](https://hyperos.mi.com/font/en/rare-word/) là font tuân thủ tiêu chuẩn bộ ký tự quốc gia Trung Quốc GB 18030-2022 và font [*Gothic-Nguyen*](https://github.com/TKYKmori/Gothic-Nguyen/tree/main).
 
 Tiêu chuẩn GB 18030-2022 quy định ba cấp độ thực hiện. Cấp độ thực hiện 1 bao gồm tổng cộng 27.584 ký tự tiếng Trung. Cấp độ thực hiện 2 bao gồm 27.780 ký tự, trong đó có các ký tự của Cấp độ thực hiện 1 và các ký tự tiếng Trung được mã hóa từ Bảng Ký tự tiếng Trung tiêu chuẩn chung không có trong Cấp độ thực hiện 1. Cấp độ thực hiện 3 bao gồm 87.887 ký tự tiếng Trung, bao gồm các ký tự của Cấp độ 2, các ký tự từ bộ ký tự tiêu chuẩn mới nhất và các bộ thủ Khang Hy được quy định trong Bảng 3. Sản phẩm dành cho chính phủ và các dịch vụ công cộng phải đáp ứng yêu cầu của Cấp độ thực hiện 3.
