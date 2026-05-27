@@ -9,17 +9,13 @@ Theo thống kê, có khoảng 60 triệu người ở Trung Quốc có tên ch�
 
 Vì vậy Hán-Nôm cũng không phải ngoại lệ khi mà các nhà nghiên cứu Hán-Nôm cũng rất cần cho mình một font chữ có các ký tự hiếm nhằm phục vụ cho công tác nghiên cứu và số hoá.
 
-Dưới đây là bản dịch tiếng Anh cho văn bản mới của bạn. Bản dịch này giữ nguyên định dạng Markdown (tiêu đề, liên kết) để bạn dễ dàng sử dụng cho tài liệu hoặc trang GitHub của mình:
-
 ---
 
 ## English
 
 This Han-Nom font was developed to meet my personal needs, as well as with the desire to serve researchers. The font can display up to 60.340 characters and will continuously be updated with more Han-Nom characters in the future. This typeface is a combination of a portion of the *[MiSans-L3](https://hyperos.mi.com/font/en/rare-word/)* font—which complies with the Chinese national character set standard GB 18030-2022—and the *[Gothic-Nguyen](https://www.google.com/search?q=https://github.com/TKYKmori/Gothic-Nguyen/tree/main)* font.
 
-The GB 18030-2022 standard defines three implementation levels. Implementation Level 1 comprises a total of 27.584 Chinese characters. Implementation Level 2 includes 27.780 characters, which encompasses all characters from Level 1 plus any additional Chinese characters encoded in the Table of General Standard Chinese Characters that are not present in Level 1. Implementation Level 3 contains 87.887 Chinese characters, covering all Level 2 characters, characters from the latest standard character sets, and the Kangxi radicals specified in Table 3. Products intended for government use and public services must satisfy the requirements of Implementation Level 3.
-
-While the standard MiSans font covers Implementation Levels 1 and 2, MiSans-L3 is an Implementation Level 3 character library (meaning it excludes characters from Levels 1 and 2).
+The GB 18030-2022 standard defines three implementation levels. Implementation Level 1 comprises a total of 27.584 Chinese characters. Implementation Level 2 includes 27.780 characters, which encompasses all characters from Level 1 plus any additional Chinese characters encoded in the Table of General Standard Chinese Characters that are not present in Level 1. Implementation Level 3 contains 87.887 Chinese characters, covering all Level 2 characters, characters from the latest standard character sets, and the Kangxi radicals specified in Table 3. Products intended for government use and public services must satisfy the requirements of Implementation Level 3. While the standard MiSans font covers Implementation Levels 1 and 2, MiSans-L3 is an Implementation Level 3 character library (meaning it excludes characters from Levels 1 and 2).
 
 According to statistics, approximately 60 million people in China have names containing rare characters. These characters are even more prevalent in place names, dialects, and ancient texts. Users whose names contain rare characters face increasing obstacles due to the rapid pace of digitization and computerization across finance, education, government services, social interaction, and work environments.
 
